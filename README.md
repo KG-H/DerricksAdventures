@@ -1,4 +1,4 @@
-데릭의 모험(Unity 3D엔진으로 만든 ARPG 게임)
+-데릭의 모험(Unity 3D엔진으로 만든 ARPG 게임)
 
 Unity로 제작된 3D ARPG게임 포트폴리오입니다.
 현재 Git Repository에는 프로젝트에서 구현된 소스파일만 있습니다.
